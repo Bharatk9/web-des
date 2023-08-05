@@ -1,0 +1,161 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.logo-pic{
+    width: 200%;
+}
+
+.fnav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 6px;
+    color: #fff;
+    background-color: rgb(42, 42, 68);
+}
+
+.fnav .left{
+    display: flex;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+
+.left img{
+    width: 16%;
+    margin-left: 0px;
+
+}
+.left input{
+    margin-inline: 11px ;
+    width: 420px;
+    height: 33px;
+    border: none;
+    outline: none;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 2px;
+
+}
+.symbol{
+  cursor: pointer;
+}
+
+.fnav .right{
+    display: flex;
+    margin-top: 16px ;
+
+}
+
+.right p{
+    margin-inline: 22px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.right button{
+    margin-inline: 22px;
+    width: 80px;
+    height: 27px;
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(244, 69, 98);
+    color: white;
+    margin-top: 6px;
+}
+.fly{
+  cursor: pointer;
+
+}
+.fly:hover{
+  background-color: red;
+}
+
+
+.right i{
+    margin-inline: 22px;
+    font-size: 22PX;
+}
+
+.sec-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 9px;
+    background-color: rgb(26, 26, 68);
+    color: #fff;
+}
+
+.sec-nav .s-left{
+    display: flex;
+
+}
+
+.sec-nav .s-right{
+    display: flex;
+
+}
+
+.sec-nav p:hover{
+    color: rgb(245, 70, 99);
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.s-left p {
+    margin-inline-start: 18px;
+}
+
+.s-right p{
+    margin-inline-start: 18px;
+}
+
+.main-img{
+  width: 100%;
+}
+.line{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  text-align:
+
+}
+.f-pic{
+  margin-top: 20px;
+  margin-left: 30px;
+  width: 17%;
+  height: 335px;
+
+}
+.s-pic{
+  margin-left: 30px;
+  width: 17%;
+  height: 335px;
+}
+.t-pic{
+  margin-left: 30px;
+  width: 17%;
+  height: 335px;
+}
+.fo-pic{
+  margin-left: 30px;
+  width: 17%;
+  height: 335px;
+}
+.fi-pic{
+  margin-left: 30px;
+  width: 17%;
+  height: 335px;
+}
+.f-des{
+  display: flex;
+  margin-left: 30px;
+}
+.f-para{
+  color: gray;
+  display: flex;
+  margin-left: 30px;
+}
